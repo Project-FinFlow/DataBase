@@ -34,7 +34,6 @@ END //
 
 DELIMITER ;
 
-v
 
 DELIMITER //
 
